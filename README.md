@@ -219,8 +219,9 @@ If you use this code, please cite the thesis:
 ```bibtex
 @mastersthesis{nazli2026gptqe,
   author = {Özgür Nazlı},
-  title  = {Particle-Number Symmetry Verification for the Generative
-            Quantum Eigensolver under Depolarising Noise},
+  title  = {SYMMETRY-VERIFIED GENERATIVE QUANTUM EIGENSOLVER:
+PARTICLE-NUMBER ERROR SYNDROMES FOR NOISE-RESILIENT
+MOLECULAR CIRCUIT GENERATION IN CUDA-Q},
   school = {Middle East Technical University, Department of Physics},
   year   = {2026}
 }
