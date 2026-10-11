@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Run artefacts
+runs/
+sweep*/
+*.pt
+*.csv
+figures/
+*.png
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Keep example/reference CSVs if ever added under docs/
+!docs/**/*.csv

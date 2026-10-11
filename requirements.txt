@@ -1,0 +1,10 @@
+# Runtime dependencies for gptqe-symmetry.
+#
+# CUDA-Q is Linux-only (incl. WSL2 and Google Colab). On Windows, run inside
+# WSL2 or Colab. See the README for backend notes.
+cudaq>=0.8
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+tqdm>=4.65
